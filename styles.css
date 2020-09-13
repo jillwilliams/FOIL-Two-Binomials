@@ -1,0 +1,63 @@
+body {
+    margin: 25px;
+    font-family: "Quicksand";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: purple;
+    background-color: lightblue;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+#pic1 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+#in1, #in2, #in3, #in4 {
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: "Quicksand";
+    border: 2px purple solid;
+    outline: 1px black solid;
+    margin: 15px;
+    background-color: violet;
+}
+#btn1 {
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: "Quicksand";
+    border: 2px purple solid;
+    outline: 1px black solid;
+    margin: 15px;
+    background-color: violet;
+}
+#demo, #demo2, #demo3, #demo4 {
+    width: 20%;
+    height: 40px;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: "Quicksand";
+    border: 2px purple solid;
+    outline: 1px black solid;
+    margin: 15px;
+    background-color: violet;
+    padding: 10px;
+    color: black;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px purple solid;
+    outline: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
